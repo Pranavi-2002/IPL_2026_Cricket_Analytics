@@ -216,7 +216,7 @@ Provides team-level performance analysis:
 - Team Total Wickets
 - Team Performance Summary
 
-![IPL 2026 Team Analysis](images/Team_Analysis.png)
+![IPL 2026 Team Analysis](images/Team_Analysis_dashboard.png)
 
 ---
 
