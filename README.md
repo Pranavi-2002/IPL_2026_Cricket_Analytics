@@ -41,9 +41,6 @@ The project uses multiple IPL datasets covering:
 - Ball-by-ball deliveries
 - Player squads
 - Venues
-- Batting statistics
-- Bowling statistics
-- Fielding statistics
 
 The data was loaded into MySQL and prepared before being connected to Power BI.
 
