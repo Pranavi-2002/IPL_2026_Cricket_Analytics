@@ -6,6 +6,11 @@ The project covers data cleaning, standardization, validation, data modeling, DA
 
 ---
 
+## 🔗 Live Dashboard
+
+[View Interactive Power BI Dashboard]([YOUR_EXISTING_POWER_BI_LINK](https://app.powerbi.com/view?r=eyJrIjoiMzI4ZGFjZmYtNWQzZC00ZWVmLWFmOTgtNTliZjQ1OWE4N2IxIiwidCI6IjZiMTYyNTQ0LTc4NDUtNGJkMC05NzNkLTJjOGQ0OGJlZDg0MyJ9&pageName=e1f0af8f331480310d07
+))
+
 ## 📌 Project Overview
 
 This project analyzes IPL 2026 data to understand:
