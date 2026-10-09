@@ -147,7 +147,7 @@ The dashboard includes cricket-specific calculations such as:
 - Abandoned Matches
 - Super Over Matches
 - Average Match Total
-- Average Score by Venue
+- Average Score by Innings
 
 Advanced DAX functions such as `TREATAS` and `USERELATIONSHIP` were used where standard filter propagation was not sufficient for the required analytical context.
 
@@ -231,8 +231,9 @@ Analyzes match outcomes and venue performance:
 - Super Over Matches
 - Average Match Total
 - Match Status by Stage
-- Average Score by Venue
+- Average Score by Innings
 - Match Decision Type
+- Toss Impact on Match Result
 
 ![IPL 2026 Match & Venue Analysis](images/Matches&Venue_Analysis_dashboard.png)
 
